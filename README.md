@@ -16,5 +16,6 @@
 ### Đối với khách hàng:
 - **Đăng ký tài khoản người dùng:** Đăng ký tài khoản cá nhân để mua hàng và theo dõi đơn hàng.
 - **Chọn sản phẩm:** Duyệt qua danh mục sản phẩm, chọn sản phẩm yêu thích và thêm vào giỏ hàng.
-- **Thanh toán:** Chọn phương thức thanh toán và hoàn tất đơn hàng.
+- **Thanh toán:
+** Chọn phương thức thanh toán và hoàn tất đơn hàng.
 - **Quản lý tài khoản:** Theo dõi đơn hàng, cập nhật thông tin cá nhân và lịch sử mua hàng.
